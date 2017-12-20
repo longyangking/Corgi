@@ -1,0 +1,3 @@
+import corgi
+
+isingmodel = 
