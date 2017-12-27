@@ -1,6 +1,7 @@
 # Definition of model based on Hamiltonian dynamics
 
 import numpy as np 
+from .simulation import simulation
 
 class Hamiltonian:
     '''
