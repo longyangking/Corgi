@@ -1,10 +1,14 @@
 # Corgi
-> Classical/Quantum Monte Carlo simulation
+> Classical/Quantum Monte Carlo simulation and analysis
 
 ## Features
 + Robust and Fast Quantum System Evolution Calculation
 
 ![](./figs/basicpsi.png)
+
++ Generate customed-distribution-orientied high quality sampling based on MCMC (under development)
+
+![](./figs/MCMC_fitdis.png)
 
 + Classical Monte Carlo
 + Vartional Monte Carlo
